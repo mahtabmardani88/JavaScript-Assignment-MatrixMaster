@@ -13,6 +13,18 @@
 ---
 > [basic js](./BasicJS/basicjs.js)
 
+---
+> [Algoritym WTF](./AlgoritymWTF/algoritym.js)
+
+
+---
+> [Intermediate](./intermediate/intermediate.js)
+
+* <a href="./intermediate/fibunacci.js">Fibunacci</a>
+* <a href="./intermediate/lorgestNum.js">Largest Number</a>
+* <a href="./intermediate/TitleCase.js">Title Case</a>
+* <a href="./intermediate/sumAllNum.js">Sum All Numbers</a>
+
 
 ---
 > [Pomodoro-Clock](./Pomodoro-Clock/pomodoro.js) 
