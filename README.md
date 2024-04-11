@@ -11,4 +11,4 @@
 > [Exercise3](../JavaScript-Assignment-MatrixMaster/exercise-3/exercise-3.js)
 
 ---
-> [basic js](../JavaScript-Assignment-MatrixMaster/BasicJS/basicjs.js)
+> [basic js](../JavaScript-Assignment-MatrixMaster/BasicJS/B-JS.md)
